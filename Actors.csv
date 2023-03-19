@@ -1,0 +1,20 @@
+Nom_individu;genre;Lastname;Firstname;age;nationality ;Movie
+T.John;M;Travolta;John;59;American;Pulp_Fiction
+T.Uma;W;Thurman;Uma ;43;American;Pulp_Fiction
+F.Morgan;M;Freeman ;Morgan ;84;American;Shawshank_Redemption
+R.Tim;M ;Robbins;Tim;63;American;Shawshank_Redemption
+B.Marlon;M;Brando;Marlon;dead;American;GodFather
+P.Al;M;Pacino ;Al;82;American;GodFather
+J.Samuel L.;M;Jackson;Samuel L.;73;American;Pulp_Fiction
+W.Elijah;M;Wood ;Elijah ;41;American;Lord_Rings_RoK
+M.Viggo;M;Mortensen;Viggo ;63;American;Lord_Rings_RoK
+H.Tom;M;Hanks;Tom;66;American;Forrest_Gump
+W.Robin;W;Wright;Robin;56;American;Forrest_Gump
+McC.Matthew;M;McConaughey ;Matthew ;52;American;Interstellar
+H.Anne;W;Hathaway;Anne ;39;American;Interstellar
+K.Song;M;Kang-ho;Song;54;South Korean;Parasite
+S.Lee;M;Sun-kyun;Lee;46;South Korean;Parasite
+S.Omar;M ;Sy;Omar;45;French;Intouchables
+E.Adèle;W;Exarchopoulos;Adèle;29;French;Adele
+E.Jesse;M ;Eisenberg;Jesse;39;American;Social_Network
+D.Leonardo;M ;DiCaprio;Leonardo;48;American;Inception

@@ -1,0 +1,745 @@
+<ClassAssertion>
+	<Class IRI="#Crime"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+</ClassAssertion>
+<ClassAssertion>
+	<Class IRI="#Thriller"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Action"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+</ClassAssertion>
+<ClassAssertion>
+	<Class IRI="#Crime"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+</ClassAssertion>
+<ClassAssertion>
+	<Class IRI="#Thriller"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Drame"/>
+	<NamedIndividual IRI="#GodFather"/>
+</ClassAssertion>
+<ClassAssertion>
+	<Class IRI="#Crime"/>
+	<NamedIndividual IRI="#GodFather"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Drame"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+</ClassAssertion>
+<ClassAssertion>
+	<Class IRI="#Crime"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Action"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Drama"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+</ClassAssertion>
+<ClassAssertion>
+	<Class IRI="#Comedy"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Drama"/>
+	<NamedIndividual IRI="#Interstellar"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="# Comedy"/>
+	<NamedIndividual IRI="#Amelie"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Drama"/>
+	<NamedIndividual IRI="#Parasite"/>
+</ClassAssertion>
+<ClassAssertion>
+	<Class IRI="#Comedy"/>
+	<NamedIndividual IRI="#Parasite"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Action"/>
+	<NamedIndividual IRI="#Gladiator"/>
+</ClassAssertion>
+<ClassAssertion>
+	<Class IRI="#Drama"/>
+	<NamedIndividual IRI="#Gladiator"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Comedy"/>
+	<NamedIndividual IRI="#La_La_Land"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Action"/>
+	<NamedIndividual IRI="#Inception"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Action"/>
+	<NamedIndividual IRI="#Dark_Knight"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Drama"/>
+	<NamedIndividual IRI="#Adele"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Comedy"/>
+	<NamedIndividual IRI="#Budapest_Hotel"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Drama"/>
+	<NamedIndividual IRI="#Social_Network"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Action"/>
+	<NamedIndividual IRI="#Matrix"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Thriller"/>
+	<NamedIndividual IRI="#Silence_Lambs"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Drama"/>
+	<NamedIndividual IRI="#City_God"/>
+</ClassAssertion>
+<ClassAssertion>
+	<Class IRI="#Crime"/>
+	<NamedIndividual IRI="#City_God"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Comedy"/>
+	<NamedIndividual IRI="#Intouchables"/>
+</ClassAssertion>
+<ClassAssertion>
+	<Class IRI="#Drama"/>
+	<NamedIndividual IRI="#Intouchables"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#T.John"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#T.John"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#T.Uma"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Female"/>
+	<NamedIndividual IRI="#T.Uma"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#F.Morgan"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#F.Morgan"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#R.Tim"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#B.Marlon"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#B.Marlon"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#P.Al"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#P.Al"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#J.Samuel L."/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#J.Samuel L."/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#W.Elijah"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#W.Elijah"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#M.Viggo"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#M.Viggo"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#H.Tom"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#H.Tom"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#W.Robin"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Female"/>
+	<NamedIndividual IRI="#W.Robin"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#McC.Matthew"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#McC.Matthew"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#H.Anne"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Female"/>
+	<NamedIndividual IRI="#H.Anne"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#K.Song"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#K.Song"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#S.Lee"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#S.Lee"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#S.Omar"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#E.Adèle"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Female"/>
+	<NamedIndividual IRI="#E.Adèle"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#E.Jesse"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Actor"/>
+	<NamedIndividual IRI="#D.Leonardo"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#D.Frank"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#D.Frank"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#C.FrancisF"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#C.FrancisF"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#J.Peter"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#J.Peter"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#R.Zemeckis"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#R.Zemeckis"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#J.Bong"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#J.Bong"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#C.Damien"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#C.Damien"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#F.David"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#F.David"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#N.Olivier"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#N.Olivier"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#M.Fernando"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#M.Fernando"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#J.Jean-Pierre"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#J.Jean-Pierre"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#R.Scott"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#R.Scott"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#K.Abdellatif"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#K.Abdellatif"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#A.Wes"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#A.Wes"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#W.Lana"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#W.Lili"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Director"/>
+	<NamedIndividual IRI="#D.Jonathan"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#D.Jonathan"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#T.Quentin "/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#T.Quentin "/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#T.Uma "/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#D.Frank"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#D.Frank"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#P.Mario"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#P.Mario"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#T.J"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#T.J"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#G.Winston"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#G.Winston"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#N.Jonathan"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#N.Jonathan"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#J.Bong"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#J.Bong"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#M.Bráulio"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#M.Bráulio"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#J.JPierre"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#J.JPierre"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Writer"/>
+	<NamedIndividual IRI="#F.David"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Male"/>
+	<NamedIndividual IRI="#F.David"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#theater"/>
+	<NamedIndividual IRI="#TCL"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#theater"/>
+	<NamedIndividual IRI="#TADC"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#theater"/>
+	<NamedIndividual IRI="#RCMH"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#theater"/>
+	<NamedIndividual IRI="#UGC_Paris"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#theater"/>
+	<NamedIndividual IRI="#CJN"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#theater"/>
+	<NamedIndividual IRI="#TLL"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule1"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule2"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule3"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule4"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule5"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule6"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule7"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule8"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule9"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule10"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule11"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule12"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule13"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule14"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule15"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule16"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule17"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule18"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule19"/>
+</ClassAssertion>
+
+<ClassAssertion>
+	<Class IRI="#Schedule"/>
+	<NamedIndividual IRI="#schedule20"/>
+</ClassAssertion>
+

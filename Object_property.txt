@@ -1,0 +1,852 @@
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+	<NamedIndividual IRI="#T.John"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#T.John"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+	<NamedIndividual IRI="#T.Uma"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#T.Uma"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+	<NamedIndividual IRI="#F.Morgan"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#F.Morgan"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+	<NamedIndividual IRI="#R.Tim"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#R.Tim"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#GodFather"/>
+	<NamedIndividual IRI="#B.Marlon"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#B.Marlon"/>
+	<NamedIndividual IRI="#GodFather"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#GodFather"/>
+	<NamedIndividual IRI="#P.Al"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#P.Al"/>
+	<NamedIndividual IRI="#GodFather"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+	<NamedIndividual IRI="#J.Samuel L."/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#J.Samuel L."/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+	<NamedIndividual IRI="#W.Elijah"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#W.Elijah"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+	<NamedIndividual IRI="#M.Viggo"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#M.Viggo"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+	<NamedIndividual IRI="#H.Tom"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#H.Tom"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+	<NamedIndividual IRI="#W.Robin"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#W.Robin"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Interstellar"/>
+	<NamedIndividual IRI="#McC.Matthew"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#McC.Matthew"/>
+	<NamedIndividual IRI="#Interstellar"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Interstellar"/>
+	<NamedIndividual IRI="#H.Anne"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#H.Anne"/>
+	<NamedIndividual IRI="#Interstellar"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Parasite"/>
+	<NamedIndividual IRI="#K.Song"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#K.Song"/>
+	<NamedIndividual IRI="#Parasite"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Parasite"/>
+	<NamedIndividual IRI="#S.Lee"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#S.Lee"/>
+	<NamedIndividual IRI="#Parasite"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Intouchables"/>
+	<NamedIndividual IRI="#S.Omar"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#S.Omar"/>
+	<NamedIndividual IRI="#Intouchables"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Adele"/>
+	<NamedIndividual IRI="#E.Adèle"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#E.Adèle"/>
+	<NamedIndividual IRI="#Adele"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Social_Network"/>
+	<NamedIndividual IRI="#E.Jesse"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#E.Jesse"/>
+	<NamedIndividual IRI="#Social_Network"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasActor"/>
+	<NamedIndividual IRI="#Inception"/>
+	<NamedIndividual IRI="#D.Leonardo"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isActorOf"/>
+	<NamedIndividual IRI="#D.Leonardo"/>
+	<NamedIndividual IRI="#Inception"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+	<NamedIndividual IRI="#D.Frank"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#D.Frank"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#GodFather"/>
+	<NamedIndividual IRI="#C.FrancisF"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#C.FrancisF"/>
+	<NamedIndividual IRI="#GodFather"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+	<NamedIndividual IRI="#J.Peter"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#J.Peter"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+	<NamedIndividual IRI="#R.Zemeckis"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#R.Zemeckis"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Interstellar"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<NamedIndividual IRI="#Interstellar"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Parasite"/>
+	<NamedIndividual IRI="#J.Bong"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#J.Bong"/>
+	<NamedIndividual IRI="#Parasite"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#La_La_Land"/>
+	<NamedIndividual IRI="#C.Damien"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#C.Damien"/>
+	<NamedIndividual IRI="#La_La_Land"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Social_Network"/>
+	<NamedIndividual IRI="#F.David"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#F.David"/>
+	<NamedIndividual IRI="#Social_Network"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Intouchables"/>
+	<NamedIndividual IRI="#N.Olivier"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#N.Olivier"/>
+	<NamedIndividual IRI="#Intouchables"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#City_God"/>
+	<NamedIndividual IRI="#M.Fernando"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#M.Fernando"/>
+	<NamedIndividual IRI="#City_God"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Amelie"/>
+	<NamedIndividual IRI="#J.Jean-Pierre"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#J.Jean-Pierre"/>
+	<NamedIndividual IRI="#Amelie"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Gladiator"/>
+	<NamedIndividual IRI="#R.Scott"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#R.Scott"/>
+	<NamedIndividual IRI="#Gladiator"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Inception"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<NamedIndividual IRI="#Inception"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Dark_Knight"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<NamedIndividual IRI="#Dark_Knight"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Adele"/>
+	<NamedIndividual IRI="#K.Abdellatif"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#K.Abdellatif"/>
+	<NamedIndividual IRI="#Adele"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Budapest_Hotel"/>
+	<NamedIndividual IRI="#A.Wes"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#A.Wes"/>
+	<NamedIndividual IRI="#Budapest_Hotel"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Matrix"/>
+	<NamedIndividual IRI="#W.Lana"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#W.Lana"/>
+	<NamedIndividual IRI="#Matrix"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Matrix"/>
+	<NamedIndividual IRI="#W.Lili"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#W.Lili"/>
+	<NamedIndividual IRI="#Matrix"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasDirector"/>
+	<NamedIndividual IRI="#Silence_Lambs"/>
+	<NamedIndividual IRI="#D.Jonathan"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isDirectorOf"/>
+	<NamedIndividual IRI="#D.Jonathan"/>
+	<NamedIndividual IRI="#Silence_Lambs"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+	<NamedIndividual IRI="#T.Quentin "/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#T.Quentin "/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+	<NamedIndividual IRI="#T.Uma "/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#T.Uma "/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+	<NamedIndividual IRI="#D.Frank"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#D.Frank"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#GodFather"/>
+	<NamedIndividual IRI="#P.Mario"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#P.Mario"/>
+	<NamedIndividual IRI="#GodFather"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+	<NamedIndividual IRI="#T.J"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#T.J"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+	<NamedIndividual IRI="#G.Winston"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#G.Winston"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#Interstellar"/>
+	<NamedIndividual IRI="#N.Jonathan"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#N.Jonathan"/>
+	<NamedIndividual IRI="#Interstellar"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#Parasite"/>
+	<NamedIndividual IRI="#J.Bong"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#J.Bong"/>
+	<NamedIndividual IRI="#Parasite"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#City_God"/>
+	<NamedIndividual IRI="#M.Bráulio"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#M.Bráulio"/>
+	<NamedIndividual IRI="#City_God"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#Amelie"/>
+	<NamedIndividual IRI="#J.JPierre"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#J.JPierre"/>
+	<NamedIndividual IRI="#Amelie"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasWriter"/>
+	<NamedIndividual IRI="#Gladiator"/>
+	<NamedIndividual IRI="#F.David"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isWriterOf"/>
+	<NamedIndividual IRI="#F.David"/>
+	<NamedIndividual IRI="#Gladiator"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule1"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule1"/>
+	<NamedIndividual IRI="#TCL"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule2"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule2"/>
+	<NamedIndividual IRI="#TADC"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule3"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule3"/>
+	<NamedIndividual IRI="#RCMH"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule4"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule4"/>
+	<NamedIndividual IRI="#TCL"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule5"/>
+	<NamedIndividual IRI="#GodFather"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule5"/>
+	<NamedIndividual IRI="#TADC"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule6"/>
+	<NamedIndividual IRI="#GodFather"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule6"/>
+	<NamedIndividual IRI="#RCMH"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule7"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule7"/>
+	<NamedIndividual IRI="#TADC"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule8"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule8"/>
+	<NamedIndividual IRI="#TCL"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule9"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule9"/>
+	<NamedIndividual IRI="#TADC"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule10"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule10"/>
+	<NamedIndividual IRI="#RCMH"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule11"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule11"/>
+	<NamedIndividual IRI="#TCL"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule12"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule12"/>
+	<NamedIndividual IRI="#UGC_Paris"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule13"/>
+	<NamedIndividual IRI="#Interstellar"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule13"/>
+	<NamedIndividual IRI="#TCL"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule14"/>
+	<NamedIndividual IRI="#Interstellar"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule14"/>
+	<NamedIndividual IRI="#UGC_Paris"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule15"/>
+	<NamedIndividual IRI="#Amelie"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule15"/>
+	<NamedIndividual IRI="#TADC"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule16"/>
+	<NamedIndividual IRI="#Amelie"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule16"/>
+	<NamedIndividual IRI="#RCMH"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule17"/>
+	<NamedIndividual IRI="#Parasite"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule17"/>
+	<NamedIndividual IRI="#CJN"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule18"/>
+	<NamedIndividual IRI="#Parasite"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule18"/>
+	<NamedIndividual IRI="#TLL"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule19"/>
+	<NamedIndividual IRI="#Gladiator"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule19"/>
+	<NamedIndividual IRI="#CJN"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#isSchedule"/>
+	<NamedIndividual IRI="#schedule20"/>
+	<NamedIndividual IRI="#Gladiator"/>
+</ObjectPropertyAssertion>
+
+<ObjectPropertyAssertion>
+	<ObjectProperty IRI="#hasSchedule"/>
+	<NamedIndividual IRI="#schedule20"/>
+	<NamedIndividual IRI="#TLL"/>
+</ObjectPropertyAssertion>
+

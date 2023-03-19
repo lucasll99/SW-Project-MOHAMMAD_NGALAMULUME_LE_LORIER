@@ -1,0 +1,2016 @@
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+	<Literal>Pulp Fiction</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">154</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+	<Literal>Kill Bill (volume 1)</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Kill_Bill"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">111</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#GodFather"/>
+	<Literal>The Godfather</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#GodFather"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#GodFather"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#GodFather"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">175</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+	<Literal>The Shawshank Redemption</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">142</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+	<Literal>The Lord of the Rings: The Return of the King</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">201</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+	<Literal>Forrest Gump</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">142</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Interstellar"/>
+	<Literal>Interstellar</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Interstellar"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Interstellar"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Interstellar"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">169</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Amelie"/>
+	<Literal>Amélie</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Amelie"/>
+	<Literal>France</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Amelie"/>
+	<Literal>French</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Amelie"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">122</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Parasite"/>
+	<Literal>Parasite</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Parasite"/>
+	<Literal>South-Korea</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Parasite"/>
+	<Literal>Korean</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Parasite"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">132</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Gladiator"/>
+	<Literal>Gladiator</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Gladiator"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Gladiator"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Gladiator"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">155</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#La_La_Land"/>
+	<Literal>La La Land</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#La_La_Land"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#La_La_Land"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#La_La_Land"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">128</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Inception"/>
+	<Literal>Inception</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Inception"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Inception"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Inception"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">148</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Dark_Knight"/>
+	<Literal>The Dark Knight</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Dark_Knight"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Dark_Knight"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Dark_Knight"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">152</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Adele"/>
+	<Literal>La Vie d'Adèle</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Adele"/>
+	<Literal>France</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Adele"/>
+	<Literal>French</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Adele"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">160</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Budapest_Hotel"/>
+	<Literal>The Grand Budapest Hotel</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Budapest_Hotel"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Budapest_Hotel"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Budapest_Hotel"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">100</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Social_Network"/>
+	<Literal>The Social Network</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Social_Network"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Social_Network"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Social_Network"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">160</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Matrix"/>
+	<Literal>The Matrix</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Matrix"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Matrix"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Matrix"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">136</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Silence_Lambs"/>
+	<Literal>The Silence of the Lambs</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Silence_Lambs"/>
+	<Literal>USA</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Silence_Lambs"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Silence_Lambs"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">118</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#City_God"/>
+	<Literal>City of God</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#City_God"/>
+	<Literal>Brazil</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#City_God"/>
+	<Literal>Portuguese</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#City_God"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">130</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#title"/>
+	<NamedIndividual IRI="#Intouchables"/>
+	<Literal>Intouchables</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#country"/>
+	<NamedIndividual IRI="#Intouchables"/>
+	<Literal>France</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#language"/>
+	<NamedIndividual IRI="#Intouchables"/>
+	<Literal>French</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#duration"/>
+	<NamedIndividual IRI="#Intouchables"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">112</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#T.John"/>
+	<Literal>Travolta</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#T.John"/>
+	<Literal>John</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#T.John"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">59</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#T.John"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#T.Uma"/>
+	<Literal>Thurman</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#T.Uma"/>
+	<Literal>Uma </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#T.Uma"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">43</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#T.Uma"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#F.Morgan"/>
+	<Literal>Freeman </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#F.Morgan"/>
+	<Literal>Morgan </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#F.Morgan"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">84</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#F.Morgan"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#R.Tim"/>
+	<Literal>Robbins</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#R.Tim"/>
+	<Literal>Tim</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#R.Tim"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">63</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#R.Tim"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#B.Marlon"/>
+	<Literal>Brando</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#B.Marlon"/>
+	<Literal>Marlon</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#B.Marlon"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">dead</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#B.Marlon"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#P.Al"/>
+	<Literal>Pacino </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#P.Al"/>
+	<Literal>Al</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#P.Al"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">82</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#P.Al"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#J.Samuel L."/>
+	<Literal>Jackson</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#J.Samuel L."/>
+	<Literal>Samuel L.</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#J.Samuel L."/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">73</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#J.Samuel L."/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#W.Elijah"/>
+	<Literal>Wood </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#W.Elijah"/>
+	<Literal>Elijah </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#W.Elijah"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">41</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#W.Elijah"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#M.Viggo"/>
+	<Literal>Mortensen</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#M.Viggo"/>
+	<Literal>Viggo </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#M.Viggo"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">63</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#M.Viggo"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#H.Tom"/>
+	<Literal>Hanks</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#H.Tom"/>
+	<Literal>Tom</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#H.Tom"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">66</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#H.Tom"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#W.Robin"/>
+	<Literal>Wright</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#W.Robin"/>
+	<Literal>Robin</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#W.Robin"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">56</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#W.Robin"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#McC.Matthew"/>
+	<Literal>McConaughey </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#McC.Matthew"/>
+	<Literal>Matthew </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#McC.Matthew"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">52</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#McC.Matthew"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#H.Anne"/>
+	<Literal>Hathaway</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#H.Anne"/>
+	<Literal>Anne </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#H.Anne"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">39</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#H.Anne"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#K.Song"/>
+	<Literal>Kang-ho</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#K.Song"/>
+	<Literal>Song</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#K.Song"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">54</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#K.Song"/>
+	<Literal>South Korean</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#S.Lee"/>
+	<Literal>Sun-kyun</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#S.Lee"/>
+	<Literal>Lee</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#S.Lee"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">46</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#S.Lee"/>
+	<Literal>South Korean</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#S.Omar"/>
+	<Literal>Sy</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#S.Omar"/>
+	<Literal>Omar</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#S.Omar"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">45</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#S.Omar"/>
+	<Literal>French</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#E.Adèle"/>
+	<Literal>Exarchopoulos</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#E.Adèle"/>
+	<Literal>Adèle</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#E.Adèle"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">29</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#E.Adèle"/>
+	<Literal>French</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#E.Jesse"/>
+	<Literal>Eisenberg</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#E.Jesse"/>
+	<Literal>Jesse</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#E.Jesse"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">39</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#E.Jesse"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#D.Leonardo"/>
+	<Literal>DiCaprio</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#D.Leonardo"/>
+	<Literal>Leonardo</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#D.Leonardo"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">48</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#D.Leonardo"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+	<Literal>Tarantino</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+	<Literal>Quentin </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">53</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+	<Literal>Tarantino</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+	<Literal>Quentin </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">53</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#T.Quentin"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#D.Frank"/>
+	<Literal>Darabont</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#D.Frank"/>
+	<Literal>Frank </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#D.Frank"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">63</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#D.Frank"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#C.FrancisF"/>
+	<Literal>Coppola</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#C.FrancisF"/>
+	<Literal> Francis Ford</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#C.FrancisF"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">83</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#C.FrancisF"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#J.Peter"/>
+	<Literal>Jackson</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#J.Peter"/>
+	<Literal>Peter</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#J.Peter"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">60</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#J.Peter"/>
+	<Literal>New-Zealand</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#R.Zemeckis"/>
+	<Literal>Robert</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#R.Zemeckis"/>
+	<Literal>Zemeckis</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#R.Zemeckis"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">70</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#R.Zemeckis"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal>Nolan</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal>Christopher</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">51</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#J.Bong"/>
+	<Literal>Joon-ho</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#J.Bong"/>
+	<Literal>Bong</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#J.Bong"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">52</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#J.Bong"/>
+	<Literal>South Korean</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#C.Damien"/>
+	<Literal>Chazelle</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#C.Damien"/>
+	<Literal>Damien</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#C.Damien"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">38</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#C.Damien"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#F.David"/>
+	<Literal>Fincher</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#F.David"/>
+	<Literal>David</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#F.David"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">60</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#F.David"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#N.Olivier"/>
+	<Literal>Nakache</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#N.Olivier"/>
+	<Literal>Olivier</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#N.Olivier"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">49</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#N.Olivier"/>
+	<Literal>French</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#M.Fernando"/>
+	<Literal>Meirelles</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#M.Fernando"/>
+	<Literal>Fernando</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#M.Fernando"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">67</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#M.Fernando"/>
+	<Literal>Brazilian</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#J.Jean-Pierre"/>
+	<Literal>Jeunet</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#J.Jean-Pierre"/>
+	<Literal>Jean-Pierre</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#J.Jean-Pierre"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">69</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#J.Jean-Pierre"/>
+	<Literal>French</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#R.Scott"/>
+	<Literal>Ridley</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#R.Scott"/>
+	<Literal>Scott</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#R.Scott"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">85</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#R.Scott"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal>Nolan</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal>Christopher</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">51</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal>Nolan</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal>Christopher</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">51</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#N.Christopher"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#K.Abdellatif"/>
+	<Literal>Kechiche </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#K.Abdellatif"/>
+	<Literal>Abdellatif</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#K.Abdellatif"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">62</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#K.Abdellatif"/>
+	<Literal>French</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#A.Wes"/>
+	<Literal>Anderson</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#A.Wes"/>
+	<Literal>Wes</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#A.Wes"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">53</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#A.Wes"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#W.Lana"/>
+	<Literal>Waschowskis</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#W.Lana"/>
+	<Literal>Lana</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#W.Lana"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">57</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#W.Lana"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#W.Lili"/>
+	<Literal>Waschowskis</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#W.Lili"/>
+	<Literal>Lili</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#W.Lili"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">55</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#W.Lili"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#D.Jonathan"/>
+	<Literal>Demme</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#D.Jonathan"/>
+	<Literal>Jonathan</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#D.Jonathan"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">73</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#D.Jonathan"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#T.Quentin "/>
+	<Literal>Tarantino</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#T.Quentin "/>
+	<Literal>Quentin </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#T.Quentin "/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">53</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#T.Quentin "/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#T.Uma "/>
+	<Literal>Thurman</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#T.Uma "/>
+	<Literal>Uma </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#T.Uma "/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">43</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#T.Uma "/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#D.Frank"/>
+	<Literal>Darabont</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#D.Frank"/>
+	<Literal>Frank </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#D.Frank"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">63</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#D.Frank"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#P.Mario"/>
+	<Literal>Puzo</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#P.Mario"/>
+	<Literal>Mario</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#P.Mario"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">115</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#P.Mario"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#T.J"/>
+	<Literal>Tolkien</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#T.J"/>
+	<Literal>J.R.R. </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#T.J"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">120</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#T.J"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#G.Winston"/>
+	<Literal>Groom </Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#G.Winston"/>
+	<Literal>Winston</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#G.Winston"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">160</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#G.Winston"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#N.Jonathan"/>
+	<Literal>Nolan</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#N.Jonathan"/>
+	<Literal>Jonathan</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#N.Jonathan"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">46</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#N.Jonathan"/>
+	<Literal>English</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#J.Bong"/>
+	<Literal>Joon-ho</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#J.Bong"/>
+	<Literal>Bong</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#J.Bong"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">52</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#J.Bong"/>
+	<Literal>South Korean</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#M.Bráulio"/>
+	<Literal>Mantovanie</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#M.Bráulio"/>
+	<Literal>Bráulio</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#M.Bráulio"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">59</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#M.Bráulio"/>
+	<Literal>Brazilian</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#J.JPierre"/>
+	<Literal>Jeunet</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#J.JPierre"/>
+	<Literal>Jean-Pierre</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#J.JPierre"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">69</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#J.JPierre"/>
+	<Literal>French</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#lastname"/>
+	<NamedIndividual IRI="#F.David"/>
+	<Literal>Franzoni</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#firstname"/>
+	<NamedIndividual IRI="#F.David"/>
+	<Literal>David</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#age"/>
+	<NamedIndividual IRI="#F.David"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#positiveInteger">75</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#nationality"/>
+	<NamedIndividual IRI="#F.David"/>
+	<Literal>American</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#name"/>
+	<NamedIndividual IRI="#TCL"/>
+	<Literal>TCL Chinese Theatre</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#location"/>
+	<NamedIndividual IRI="#TCL"/>
+	<Literal>Los Angeles</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#name"/>
+	<NamedIndividual IRI="#TADC"/>
+	<Literal>The Alamo Drafthouse Cinema</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#location"/>
+	<NamedIndividual IRI="#TADC"/>
+	<Literal>Austin</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#name"/>
+	<NamedIndividual IRI="#RCMH"/>
+	<Literal>Radio City Music Hall</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#location"/>
+	<NamedIndividual IRI="#RCMH"/>
+	<Literal>New York</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#name"/>
+	<NamedIndividual IRI="#UGC_Paris"/>
+	<Literal>UGC</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#location"/>
+	<NamedIndividual IRI="#UGC_Paris"/>
+	<Literal>Paris</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#name"/>
+	<NamedIndividual IRI="#CJN"/>
+	<Literal>Centre Jonathan Ngala</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#location"/>
+	<NamedIndividual IRI="#CJN"/>
+	<Literal>Paris</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#name"/>
+	<NamedIndividual IRI="#TLL"/>
+	<Literal>Theatre Le Lorier</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#location"/>
+	<NamedIndividual IRI="#TLL"/>
+	<Literal>Yvelines</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule1"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:00</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule1"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1994-02-09T10:30:00</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule2"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:01</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule2"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2003-01-09T10:30:01</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule3"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:02</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule3"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1972-04-04T10:30:02</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule4"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:03</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule4"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1994-02-12T10:30:03</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule5"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:04</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule5"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2003-02-10T10:30:04</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule6"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:05</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule6"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1994-02-09T10:30:05</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule7"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:06</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule7"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2014-02-09T10:30:06</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule8"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:07</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule8"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2001-06-09T10:30:07</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule9"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:08</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule9"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2019-08-09T10:30:08</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule10"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:09</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule10"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2000-03-03T10:30:09</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule11"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:10</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule11"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-09T10:30:10</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule12"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:11</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule12"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2010-12-09T10:30:11</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule13"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:12</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule13"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2008-11-12T10:30:12</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule14"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:13</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule14"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-09T10:30:13</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule15"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:14</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule15"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2014-02-09T10:30:14</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule16"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:15</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule16"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2010-09-09T10:30:15</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule17"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:16</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule17"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1999-08-09T10:30:16</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule18"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:17</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule18"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1991-04-09T10:30:17</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule19"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:18</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule19"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2002-02-12T10:30:18</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#released_date"/>
+	<NamedIndividual IRI="#schedule20"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">1997-02-09T10:30:19</Literal>
+</DataPropertyAssertion>
+
+<DataPropertyAssertion>
+	<DataProperty IRI="#end_released_date"/>
+	<NamedIndividual IRI="#schedule20"/>
+	<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-09T10:30:19</Literal>
+</DataPropertyAssertion>
+

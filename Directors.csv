@@ -1,0 +1,22 @@
+Nom_individu;genre;Lastname;Firstname;age;nationality ;Movie
+T.Quentin;M;Tarantino;Quentin ;53;American;Pulp_Fiction
+T.Quentin;M;Tarantino;Quentin ;53;American;Kill_Bill
+D.Frank;M;Darabont;Frank ;63;American;Shawshank_Redemption
+C.FrancisF;M;Coppola; Francis Ford;83;American;GodFather
+J.Peter;M;Jackson;Peter;60;New-Zealand;Lord_Rings_RoK
+R.Zemeckis;M;Robert;Zemeckis;70;American;Forrest_Gump
+N.Christopher;M;Nolan;Christopher;51;English;Interstellar
+J.Bong;M;Joon-ho;Bong;52;South Korean;Parasite
+C.Damien;M;Chazelle;Damien;38;American;La_La_Land
+F.David;M;Fincher;David;60;American;Social_Network
+N.Olivier;M;Nakache;Olivier;49;French;Intouchables
+M.Fernando;M;Meirelles;Fernando;67;Brazilian;City_God
+J.Jean-Pierre;M;Jeunet;Jean-Pierre;69;French;Amelie
+R.Scott;M;Ridley;Scott;85;American;Gladiator
+N.Christopher;M;Nolan;Christopher;51;English;Inception
+N.Christopher;M;Nolan;Christopher;51;English;Dark_Knight
+K.Abdellatif;M;Kechiche ;Abdellatif;62;French;Adele
+A.Wes;M;Anderson;Wes;53;American;Budapest_Hotel
+W.Lana;F;Waschowskis;Lana;57;American;Matrix
+W.Lili;F;Waschowskis;Lili;55;American;Matrix
+D.Jonathan;M;Demme;Jonathan;73;American;Silence_Lambs

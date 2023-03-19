@@ -1,0 +1,388 @@
+<Declaration>
+	<NamedIndividual IRI="#Pulp_Fiction"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Kill_Bill"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#GodFather"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Shawshank_Redemption"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Lord_Rings_RoK"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Forrest_Gump"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Interstellar"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Amelie"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Parasite"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Gladiator"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#La_La_Land"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Inception"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Dark_Knight"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Adele"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Budapest_Hotel"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Social_Network"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Matrix"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Silence_Lambs"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#City_God"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#Intouchables"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#T.John"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#T.Uma"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#F.Morgan"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#R.Tim"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#B.Marlon"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#P.Al"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#J.Samuel L."/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#W.Elijah"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#M.Viggo"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#H.Tom"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#W.Robin"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#McC.Matthew"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#H.Anne"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#K.Song"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#S.Lee"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#S.Omar"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#E.Adèle"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#E.Jesse"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#D.Leonardo"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#T.Quentin"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#T.Quentin"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#D.Frank"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#C.FrancisF"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#J.Peter"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#R.Zemeckis"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#N.Christopher"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#J.Bong"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#C.Damien"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#F.David"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#N.Olivier"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#M.Fernando"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#J.Jean-Pierre"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#R.Scott"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#N.Christopher"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#N.Christopher"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#K.Abdellatif"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#A.Wes"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#W.Lana"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#W.Lili"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#D.Jonathan"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#T.Quentin "/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#T.Uma "/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#D.Frank"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#P.Mario"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#T.J"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#G.Winston"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#N.Jonathan"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#J.Bong"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#M.Bráulio"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#J.JPierre"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#F.David"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#TCL"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#TADC"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#RCMH"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#UGC_Paris"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#CJN"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#TLL"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule1"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule2"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule3"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule4"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule5"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule6"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule7"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule8"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule9"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule10"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule11"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule12"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule13"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule14"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule15"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule16"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule17"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule18"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule19"/>
+</Declaration> 
+
+<Declaration>
+	<NamedIndividual IRI="#schedule20"/>
+</Declaration> 
+
